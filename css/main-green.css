@@ -787,6 +787,10 @@ body > footer .copyrights {
   margin: 5px 0 25px;
 }
 
+.link-certificate {
+  font-size: 10px;
+}
+
 .block-title h3 span {
   color: #2eca7f;
 }
@@ -809,7 +813,7 @@ body > footer .copyrights {
 }
 
 .custom-page-content .page-header.color-1 {
-  background-color: #2eca7f;
+  background-color: #fcb315;
   background-image: url(../images/sp_main_bg.png);
   background-size: cover;
   -webkit-background-size: cover;
@@ -839,7 +843,7 @@ body > footer .copyrights {
 ======================================= */
 .start-page-content .page-header {
   position: relative;
-  background-color: #2eca7f;
+  background-color: #afdb0e;
   padding: 50px;
   margin-bottom: 25px;
   background-image: url(../images/sp_main_bg.png);
